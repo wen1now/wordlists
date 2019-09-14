@@ -1,6 +1,1 @@
-Fermat,Euler,evan chen,tony wang,terrance tao,
-olympiad,
-geometry,concave,convex,symmedian,menelaus,ceva,harmonic,conic,cyclic,circle,square,triangle,equilateral,point,line,tangent,cosine,sine,area,right angle,
-combinatorics,pigeonhole principle,invariant,graph,complete graph,binary,
-number theory,fermat's little theorem,order,prime,integer,composite,
-algebra,inequality,polynomial,real number,functional equation,sum,product,system of equations,
+Fermat,Euler,evan chen,tony wang,terence tao,olympiad,geometry,concave,convex,symmedian,menelaus,ceva,harmonic,conic,cyclic,circle,square,triangle,equilateral,point,line,tangent,cosine,sine,area,right angle,combinatorics,pigeonhole principle,invariant,graph,complete graph,binary,number theory,fermat's little theorem,order,prime,integer,composite,algebra,inequality,polynomial,real number,functional equation,sum,product,system of equations
